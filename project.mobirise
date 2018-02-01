@@ -191,7 +191,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/noun-aging-236203-300x300.png",
+              "src": "@PROJECT_PATH@/assets/images/noun-girl-367964-300x300.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -212,7 +212,7 @@
           "title3": "Informatik entmystifizieren",
           "caption3": "Trotz ihrer zentralen Relevanz für die Zukunft wird das breite Nutzungsspektrum der Informatik oftmals nicht erkannt und vermittelt.  ",
           "title4": "Altersgruppengerecht",
-          "caption4": "Die Zukunft beginnt im jungen Alter: Begeisterung für die Themen der Arbeitswelt der Zukunft wird im jungen Alter geboren. Die hier gesammelten Angebote können nach Altergruppen und Skill sortiert werden.",
+          "caption4": "Die Begeisterung für Themen der Arbeitswelt der Zukunft wird im jungen Alter geboren. Die hier gesammelten Angebote können nach Altergruppen und Skill sortiert werden.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
@@ -238,11 +238,11 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "showBullets": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#f1c050",
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/23867064747-97a44fd287-k-2000x1333.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -268,7 +268,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/screencapture-gi-de-service-1517490146946-2000x2338.png",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
