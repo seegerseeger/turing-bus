@@ -1,0 +1,38 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+@import url(https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext);
+
+
+
+
+
+#menu-0 .navbar-toggler {
+  color: #000;
+}
+#menu-0 .navbar-brand {
+  font-family: 'Oswald', sans-serif;
+}
+#header1-1 H1 {
+  font-size: 46px;
+  color: #000000;
+  font-family: 'Roboto Condensed', sans-serif;
+  text-align: left;
+}
+#header1-1 B {
+  font-family: 'Lora', serif;
+}
+#header1-1 P {
+  text-align: left;
+}
+#features1-d H4 {
+  font-family: 'Oswald', sans-serif;
+}
+#slider-7 H2 {
+  color: #000000;
+  text-align: left;
+  font-family: 'Alegreya Sans', sans-serif;
+}
+#slider-7 P {
+  text-align: left;
+}
