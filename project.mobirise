@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-02-01_1239",
-    "currentPage": "index.html",
+    "currentPage": "kontakt.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -10,7 +10,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.3",
-    "uniqCompNum": 17,
+    "uniqCompNum": 29,
     "versionPublish": "4.6.3",
     "screenshot": "screenshot.png"
   },
@@ -36,7 +36,7 @@
             "color": "#f2f2f2",
             "hamburgerColor": "#000"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">Der Bus<br></a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"><strong>Stationen</strong><br></a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">Kontakt</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">Der Bus<br></a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"stationen.html\"><strong>Stationen</strong><br></a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"kontakt.html\">Kontakt</a></li>",
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
           "logo": {
             "image": {
@@ -278,19 +278,6 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Zur Webseite</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>",
                 "overlay": true,
                 "overlayOpacity": "0.7"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/screencapture-gi-de-service-1517490146946-2000x2338.png",
-                "active": false,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "title": "Regionalgruppen der Gesellschaft für Informatik",
-                "contentAlign": "center",
-                "text": "Die Regionalgruppen sind „Informatik vor Ort“. Sie organisieren den Kontakt zwischen Informatikerinnen und Informatikern in Anwendung, Forschung oder Lehre. Die Regionalgruppen werden gemeinschaftlich mit dem German Chapter of the ACM betrieben.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Zur Webseite</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>",
-                "overlay": true,
-                "overlayOpacity": "0.7"
               }
             ]
           },
@@ -384,6 +371,750 @@
           ],
           "_name": "footer1",
           "_anchor": "footer1-9"
+        }
+      ]
+    },
+    "kontakt.html": {
+      "settings": {
+        "title": "Kontakt",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 2
+      },
+      "components": [
+        {
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#f2f2f2",
+            "hamburgerColor": "#000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">Der Bus<br></a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"stationen.html\"><strong>Stationen</strong><br></a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"kontakt.html\">Kontakt</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/bus-2-icon-128x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Turing-Bus - zurück in die Zukunft der Arbeitswelt</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000"
+            },
+            ".navbar-brand": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          },
+          "_anchor": "menu-n"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/on-the-bus-further-900x641.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f1c050",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/embed/B7D26urg3qg?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/watch?v=B7D26urg3qg",
+              "width": 1280,
+              "height": 720
+            },
+            "overlay": true,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.7"
+          },
+          "title": "<b>Mit dem Turing-Bus in die digitale Zukunft der Arbeitswelt</b>",
+          "text": "Wenn Informatik als trockener Begriff verstanden wird und Ballungszentren sich in einer Blase aus Überangebot und gesättigter Nachfrage an spannenden Projekten und Konzepten aus dem Themenbereich der Digitalisierung befinden, ist es Zeit für den TURING-BUS.&nbsp;<br><br>Die Relevanz der Digitalisierung muss heute nicht mehr betont oder bestritten werden: große Teile der Gesellschaft spüren die Veränderungen bereits oder werden sie bald erfahren. Während Bürger in Großstädten und Ballungszentren eine große Auswahl an Möglichkeiten haben, sich an Projekten und Initiativen im weiteren Themenbereich der Digitalisierung zu beteiligen, fehlen diese Chancen in kleineren Städten oftmals.&nbsp;<br><br>Der Turing-Bus möchte <strong>Akteure</strong>, <strong>Initiativen</strong> und <strong>Projekte</strong>&nbsp;mit diesen vernachlässigten Zielgruppen verbinden und besucht deshalb in 2018 Städte, Bildungseinrichtungen und Institutionen in Deutschland. Die Ergebnisse können in einer <strong>Infonauten-Karte</strong>&nbsp;auf dieser Webseite eingesehen werden. &nbsp;<br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Akteur, Initiative oder Projekt?</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Ich möchte mich informieren</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            "H1": {
+              "font-size": "46px",
+              "color": "#000000",
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "text-align": "left"
+            },
+            "B": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "header1-o"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": false,
+            "paddingTop": "3",
+            "paddingBottom": 3,
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/noun-digital-graphic-1262210-300x300.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/noun-digitalization-960894-300x300.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/noun-computer-324750-300x300.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/noun-girl-367964-300x300.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "Die Zukunft wird (noch) digital(er)",
+          "caption1": "Die Folgen der Digitalisierung sind allgegenwärtig. Was bedeutet dies für die Arbeitswelten der Zukunft? ",
+          "title2": "Angebote und Nutzer verbinden",
+          "caption2": "Großstädte und Ballungszentren sind oftmals bereits gut vernetzt. Viele Schüler, Studenten und weitere Zielgruppen in kleineren Städten bleiben hier jedoch außen vor.  ",
+          "title3": "Informatik entmystifizieren",
+          "caption3": "Trotz ihrer zentralen Relevanz für die Zukunft wird das breite Nutzungsspektrum der Informatik oftmals nicht erkannt und vermittelt.  ",
+          "title4": "Altersgruppengerecht",
+          "caption4": "Die Begeisterung für Themen der Arbeitswelt der Zukunft wird im jungen Alter geboren. Die hier gesammelten Angebote können nach Altergruppen und Skill sortiert werden.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_styles": {
+            "H4": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          },
+          "_anchor": "features1-p"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "autoplay": true,
+            "fullScreen": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#f1c050",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/23867064747-97a44fd287-k-2000x1333.jpg",
+                "active": true,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Jugend hackt",
+                "contentAlign": "left",
+                "text": "Jugend hackt ist ein Programm für 13-18 jährige, die mit Code die Welt verbessern wollen.&nbsp;",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"http://jugendhackt.de\" data-toolbar=\"-mbrBtnMove\">Zur Webseite</a> ",
+                "overlay": true,
+                "overlayOpacity": "0.5"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/screen-shot-2018-02-01-at-13.57.35-2000x759.png",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Demokratielabore",
+                "contentAlign": "left",
+                "text": "Die Demokratielabore sind ein Modellprojekt der Open Knowledge Foundation Deutschland, das vom Bundesministerium für Familie, Senioren, Frauen und Jugend im Rahmen des Bundesprogramms Demokratie leben! gefördert wird. <br><br>Wir führen verschiedene Workshop- und Aktionsformate mit Jugendlichen im Alter von 12 bis 21 Jahren rund um Digitalisierung, Technologien und gesellschaftliches Miteinander durch. Dazu arbeiten wir sowohl eng mit außerschulischen Jugendeinrichtungen als auch überregionalen Jugendverbänden und Initiativen zusammen – deutschlandweit.&nbsp;",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://demokratielabore.de/projekt/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Zur Webseite</a> ",
+                "overlay": true,
+                "overlayOpacity": "0.7"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/screencapture-gi-de-service-1517490146946-2000x2338.png",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Regionalgruppen der Gesellschaft für Informatik",
+                "contentAlign": "left",
+                "text": "Die Regionalgruppen sind „Informatik vor Ort“. Sie organisieren den Kontakt zwischen Informatikerinnen und Informatikern in Anwendung, Forschung oder Lehre. Die Regionalgruppen werden gemeinschaftlich mit dem German Chapter of the ACM betrieben.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://gi.de/netzwerk/regionalgruppen/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Zur Webseite</a> ",
+                "overlay": true,
+                "overlayOpacity": "0.7"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/screencapture-gi-de-service-1517490146946-2000x2338.png",
+                "active": true,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Regionalgruppen der Gesellschaft für Informatik",
+                "contentAlign": "center",
+                "text": "Die Regionalgruppen sind „Informatik vor Ort“. Sie organisieren den Kontakt zwischen Informatikerinnen und Informatikern in Anwendung, Forschung oder Lehre. Die Regionalgruppen werden gemeinschaftlich mit dem German Chapter of the ACM betrieben.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Zur Webseite</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>",
+                "overlay": true,
+                "overlayOpacity": "0.7"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_styles": {
+            "H2": {
+              "color": "#000000",
+              "text-align": "left",
+              "font-family": "'Alegreya Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "slider-q"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#37383e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\">Contact Us</a>",
+          "text1": "<strong>Addresse</strong><br>Straße<br>Berlin<br><br><b>Kontakt</b><b><br></b>Email: info@turingbus.de<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text2": "<strong>Links</strong><ul><li><a href=\"https://mobirise.com/\">B</a>MBI</li><li>OKF DE</li><li>GI</li><li>Weizenbaum</li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "bettlar@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": false,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Nachricht"
+              }
+            }
+          },
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-r"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#26272c",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2015 Company Name. <a href=\"https://mobirise.com/\">Terms of Use</a>  | <a href=\"https://mobirise.com/\">Privacy Policy</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-s"
+        }
+      ]
+    },
+    "stationen.html": {
+      "settings": {
+        "title": "Stationen",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 1
+      },
+      "components": [
+        {
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#f2f2f2",
+            "hamburgerColor": "#000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">Der Bus<br></a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"stationen.html\"><strong>Stationen</strong><br></a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"kontakt.html\">Kontakt</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/bus-2-icon-128x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Turing-Bus - zurück in die Zukunft der Arbeitswelt</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000"
+            },
+            ".navbar-brand": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          },
+          "_anchor": "menu-h"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/on-the-bus-further-900x641.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f1c050",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/embed/B7D26urg3qg?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/watch?v=B7D26urg3qg",
+              "width": 1280,
+              "height": 720
+            },
+            "overlay": true,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.7"
+          },
+          "title": "<b>Mit dem Turing-Bus in die digitale Zukunft der Arbeitswelt</b>",
+          "text": "Wenn Informatik als trockener Begriff verstanden wird und Ballungszentren sich in einer Blase aus Überangebot und gesättigter Nachfrage an spannenden Projekten und Konzepten aus dem Themenbereich der Digitalisierung befinden, ist es Zeit für den TURING-BUS.&nbsp;<br><br>Die Relevanz der Digitalisierung muss heute nicht mehr betont oder bestritten werden: große Teile der Gesellschaft spüren die Veränderungen bereits oder werden sie bald erfahren. Während Bürger in Großstädten und Ballungszentren eine große Auswahl an Möglichkeiten haben, sich an Projekten und Initiativen im weiteren Themenbereich der Digitalisierung zu beteiligen, fehlen diese Chancen in kleineren Städten oftmals.&nbsp;<br><br>Der Turing-Bus möchte <strong>Akteure</strong>, <strong>Initiativen</strong> und <strong>Projekte</strong>&nbsp;mit diesen vernachlässigten Zielgruppen verbinden und besucht deshalb in 2018 Städte, Bildungseinrichtungen und Institutionen in Deutschland. Die Ergebnisse können in einer <strong>Infonauten-Karte</strong>&nbsp;auf dieser Webseite eingesehen werden. &nbsp;<br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Akteur, Initiative oder Projekt?</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Ich möchte mich informieren</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            "H1": {
+              "font-size": "46px",
+              "color": "#000000",
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "text-align": "left"
+            },
+            "B": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "header1-i"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": true,
+            "paddingTop": "3",
+            "paddingBottom": 3,
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/noun-digital-graphic-1262210-300x300.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/noun-digitalization-960894-300x300.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/noun-computer-324750-300x300.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/noun-girl-367964-300x300.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "Die Zukunft wird (noch) digital(er)",
+          "caption1": "Die Folgen der Digitalisierung sind allgegenwärtig. Was bedeutet dies für die Arbeitswelten der Zukunft? ",
+          "title2": "Angebote und Nutzer verbinden",
+          "caption2": "Großstädte und Ballungszentren sind oftmals bereits gut vernetzt. Viele Schüler, Studenten und weitere Zielgruppen in kleineren Städten bleiben hier jedoch außen vor.  ",
+          "title3": "Informatik entmystifizieren",
+          "caption3": "Trotz ihrer zentralen Relevanz für die Zukunft wird das breite Nutzungsspektrum der Informatik oftmals nicht erkannt und vermittelt.  ",
+          "title4": "Altersgruppengerecht",
+          "caption4": "Die Begeisterung für Themen der Arbeitswelt der Zukunft wird im jungen Alter geboren. Die hier gesammelten Angebote können nach Altergruppen und Skill sortiert werden.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_styles": {
+            "H4": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          },
+          "_anchor": "features1-j"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "autoplay": true,
+            "fullScreen": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#f1c050",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/23867064747-97a44fd287-k-2000x1333.jpg",
+                "active": true,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Jugend hackt",
+                "contentAlign": "right",
+                "text": "Jugend hackt ist ein Programm für 13-18 jährige, die mit Code die Welt verbessern wollen.&nbsp;",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Zur Webseite</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Mehr erfahren</a>",
+                "overlay": true,
+                "overlayOpacity": "0.5"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/screen-shot-2018-02-01-at-13.57.35-2000x759.png",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Demokratielabore",
+                "contentAlign": "left",
+                "text": "Die Demokratielabore sind ein Modellprojekt der Open Knowledge Foundation Deutschland, das vom Bundesministerium für Familie, Senioren, Frauen und Jugend im Rahmen des Bundesprogramms Demokratie leben! gefördert wird. <br><br>Wir führen verschiedene Workshop- und Aktionsformate mit Jugendlichen im Alter von 12 bis 21 Jahren rund um Digitalisierung, Technologien und gesellschaftliches Miteinander durch. Dazu arbeiten wir sowohl eng mit außerschulischen Jugendeinrichtungen als auch überregionalen Jugendverbänden und Initiativen zusammen – deutschlandweit.&nbsp;",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://demokratielabore.de/projekt/\" data-toolbar=\"-mbrBtnMove\">Zur Webseite</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Termine</a>",
+                "overlay": true,
+                "overlayOpacity": "0.7"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/screencapture-gi-de-service-1517490146946-2000x2338.png",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Regionalgruppen der Gesellschaft für Informatik",
+                "contentAlign": "center",
+                "text": "Die Regionalgruppen sind „Informatik vor Ort“. Sie organisieren den Kontakt zwischen Informatikerinnen und Informatikern in Anwendung, Forschung oder Lehre. Die Regionalgruppen werden gemeinschaftlich mit dem German Chapter of the ACM betrieben.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Zur Webseite</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>",
+                "overlay": true,
+                "overlayOpacity": "0.7"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/screencapture-gi-de-service-1517490146946-2000x2338.png",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Regionalgruppen der Gesellschaft für Informatik",
+                "contentAlign": "center",
+                "text": "Die Regionalgruppen sind „Informatik vor Ort“. Sie organisieren den Kontakt zwischen Informatikerinnen und Informatikern in Anwendung, Forschung oder Lehre. Die Regionalgruppen werden gemeinschaftlich mit dem German Chapter of the ACM betrieben.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Zur Webseite</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>",
+                "overlay": true,
+                "overlayOpacity": "0.7"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_styles": {
+            "H2": {
+              "color": "#000000",
+              "text-align": "left",
+              "font-family": "'Alegreya Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "slider-k"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#37383e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\">Contact Us</a>",
+          "text1": "<strong>Addresse</strong><br>Straße<br>Berlin<br><br><b>Kontakt</b><b><br></b>Email: info@turingbus.de<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text2": "<strong>Links</strong><ul><li><a href=\"https://mobirise.com/\">B</a>MBI</li><li>OKF DE</li><li>GI</li><li>Weizenbaum</li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "bettlar@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": false,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Nachricht"
+              }
+            }
+          },
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-l"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#26272c",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2015 Company Name. <a href=\"https://mobirise.com/\">Terms of Use</a>  | <a href=\"https://mobirise.com/\">Privacy Policy</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-m"
         }
       ]
     }
