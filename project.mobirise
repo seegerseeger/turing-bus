@@ -124,7 +124,7 @@
             "showImages": true,
             "showTitles": true,
             "showCaptions": true,
-            "showButtons": false,
+            "showButtons": true,
             "paddingTop": "3",
             "paddingBottom": 3,
             "columns": 4,
