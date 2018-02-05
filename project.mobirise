@@ -165,55 +165,6 @@
         },
         {
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "showArrow": true,
-            "contentAlign": "center",
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/on-the-bus-further-900x641.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#f2f2f2",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/embed/B7D26urg3qg?rel=0&amp;showinfo=0&autoplay=0&loop=0",
-              "rawUrl": "https://www.youtube.com/watch?v=B7D26urg3qg",
-              "width": 1280,
-              "height": 720
-            },
-            "overlay": true,
-            "overlayColor": "#ffffff",
-            "overlayOpacity": "0.7"
-          },
-          "title": "<b>Die Zukunft ist auch nicht mehr das, was sie mal war..</b>",
-          "text": "Die Relevanz der Digitalisierung muss heute nicht mehr betont oder bestritten werden: große Teile der Gesellschaft spüren die Veränderungen bereits oder werden sie bald erfahren. Während Bürger in Großstädten und Ballungszentren teilweise eine große Auswahl an Möglichkeiten haben, sich an Projekten und Initiativen im weiteren Themenbereich der Digitalisierung zu beteiligen, fehlen diese Chancen in vielen Gegenden oftmals.&nbsp;<br><br>Der Turing-Bus möchte <strong>Akteure</strong>, <strong>Initiativen</strong> und <strong>Projekte</strong>&nbsp;mit diesen vernachlässigten Zielgruppen verbinden und besucht deshalb in 2018 Städte, Bildungseinrichtungen und Institutionen in Deutschland. Die Ergebnisse können in einer <strong>Infonauten-Karte</strong>&nbsp;auf dieser Webseite eingesehen werden. &nbsp;<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Akteur, Initiative oder Projekt?</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Ich möchte mich informieren</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header1",
-          "_anchor": "header1-1",
-          "_styles": {
-            "H1": {
-              "font-size": "46px",
-              "color": "#000000",
-              "font-family": "'Roboto Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
-              "text-align": "left"
-            },
-            "B": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
-            },
-            "P": {
-              "text-align": "left"
-            }
-          }
-        },
-        {
-          "_params": {
             "showImages": true,
             "showTitles": true,
             "showCaptions": true,
