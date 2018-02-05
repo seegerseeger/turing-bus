@@ -1,3 +1,0 @@
-# turing-bus
-
-test
