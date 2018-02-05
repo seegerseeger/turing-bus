@@ -7,6 +7,7 @@
 
 
 
+
 #menu-0 .navbar-toggler {
   color: #000000;
 }
@@ -14,6 +15,9 @@
   font-family: 'Oswald', sans-serif;
 }
 #header3-1l H3 {
+  font-family: 'Oswald', sans-serif;
+}
+#header3-1l B {
   font-family: 'Oswald', sans-serif;
 }
 #features1-d H4 {
