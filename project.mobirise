@@ -10,7 +10,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.3",
-    "uniqCompNum": 61,
+    "uniqCompNum": 64,
     "versionPublish": "4.6.3",
     "screenshot": "screenshot.png"
   },
@@ -33,7 +33,7 @@
             "sticky": false,
             "collapsed": true,
             "transparent": false,
-            "color": "#ffffff",
+            "color": "#f2f2f2",
             "hamburgerColor": "#000000"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"><strong>Der Bus</strong><br></a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"stationen.html\"><strong>Stationen</strong><br></a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"kontakt.html\"><strong>Kontakt</strong></a></li>",
@@ -159,13 +159,88 @@
           }
         },
         {
-          "text": "<p>Die Relevanz der <b>Digitalisierung</b> muss heute eigentlich nicht mehr betont oder bestritten werden: große Teile der Gesellschaft spüren die Veränderungen bereits oder sind auf dem besten Wege, sie bald zu erfahren.&nbsp;<span style=\"font-size: 1.25rem;\">Konsequenzen hat dies nicht nur für die Anforderungen an unser Können und unsere Fähigkeiten, auch für die gemeinnützige Arbeit, soziales Engagement und die Art und Weise in der wir arbeiten ergeben sich neue Fragestellungen.&nbsp;</span></p><p><span style=\"font-size: 1.25rem;\">Wie gehen wir auf diese Zukunft zu, und mit ihr um? Welche Herausforderungen und Chancen warten auf uns, und gibt es genügen kritische Auseinandersetzung mit dem Thema? In größeren Städten wie Berlin gibt es oftmals bereits eine Reihe an Angeboten, von selbstorganisierten Treffen über Vereine und Fortbildungen zu Veranstaltungen besteht für die Einwohner ein breites Angebot, um sich mit den Themen der Digitalisierung auseinanderzusetzen.&nbsp;</span><br></p><p><span style=\"font-size: 1.25rem;\">Außerhalb dieser Ballungszentren besteht dagegen oftmals ein Mangel an Angeboten.&nbsp;</span></p><p><span style=\"font-size: 1.25rem;\">Der Turing-Bus (benannt nacht Alan Turing) möchte deshalb&nbsp;</span><b style=\"font-size: 1.25rem;\">Akteure</b><span style=\"font-size: 1.25rem;\">, </span><b style=\"font-size: 1.25rem;\">Initiativen</b><span style=\"font-size: 1.25rem;\"> und </span><b style=\"font-size: 1.25rem;\">Projekte</b><span style=\"font-size: 1.25rem;\"> mit diesen vernachlässigten Zielgruppen verbinden und besucht deshalb in 2018 Städte, Bildungseinrichtungen und Institutionen in Deutschland. Die Ergebnisse können in einer </span><b style=\"font-size: 1.25rem;\">Infonauten-Karte</b><span style=\"font-size: 1.25rem;\"> auf dieser Webseite eingesehen werden. &nbsp;</span><br></p>",
+          "text": "<p>Die Relevanz der <b>Digitalisierung</b> muss heute eigentlich nicht mehr betont oder bestritten werden: große Teile der Gesellschaft spüren die Veränderungen bereits oder sind auf dem besten Wege, sie bald zu erfahren.&nbsp;<span style=\"font-size: 1.25rem;\">Konsequenzen hat dies nicht nur für die Anforderungen an unser Können und unsere Fähigkeiten, auch für die gemeinnützige Arbeit, soziales Engagement und die Art und Weise zu arbeiten ergeben sich neue Fragestellungen.&nbsp;</span></p><p><span style=\"font-size: 1.25rem;\">Informatik ist längst mehr als eine Wissenschaft. Als Schlüssel zu der uns umgebenden, stetig wachsenden digitalen Infrastruktur hat sie die Macht, unser Verhältnis zu unserer Umwelt zu definieren; als Werkzeug das die 'Black Box' der großen und kleinen Computer öffnen kann, kann sie uns Aufschluss über die stetig Daten sammelnden 'Smart' -Phones, Watches und Devices geben, um dadurch ein Verständnis dafür zu entwickeln wohin die unseren Alltag abbildenden Datenströme fließen. Daten gibt es nicht nur bei Facebook: was der Staat tut, wohin Steuergelder fließen oder was in der Politik geschieht kann mithilfe von datenverarbeitender Software aufgedeckt und verstanden werden.</span></p><p><span style=\"font-size: 1.25rem;\">Wie gehen wir auf die Zukunft zu, und mit ihr um? Welche Herausforderungen und Chancen warten auf uns, und gibt es genügen kritische Auseinandersetzung mit dem Thema? In größeren Städten wie Berlin gibt es oftmals bereits eine Reihe an Angeboten: von selbstorganisierten Treffen über Vereine und Fortbildungen zu Veranstaltungen besteht für die Einwohner ein breites Angebot, um sich mit den Themen der Digitalisierung auseinanderzusetzen.&nbsp;</span><br></p><p><span style=\"font-size: 1.25rem;\">Außerhalb dieser Ballungszentren besteht dagegen oftmals ein Mangel an Angeboten.&nbsp;</span></p><p><span style=\"font-size: 1.25rem;\">Der Turing-Bus (benannt nacht Alan Turing) möchte deshalb&nbsp;</span><b style=\"font-size: 1.25rem;\">Akteure</b><span style=\"font-size: 1.25rem;\">, </span><b style=\"font-size: 1.25rem;\">Initiativen</b><span style=\"font-size: 1.25rem;\"> und </span><b style=\"font-size: 1.25rem;\">Projekte</b><span style=\"font-size: 1.25rem;\"> mit diesen vernachlässigten Zielgruppen verbinden und besucht deshalb im Frühjahr/Sommer 2018 Städte, Bildungseinrichtungen und Institutionen in Deutschland. Auf diesen Stationen finden individuell entwickelte Veranstaltungen, Workshops, Panel-Diskussionen und Hands-on Formate statt, bei denen Vertreter der oben genannten Initiativen (Infonauten) &nbsp;sich und ihre Arbeit präsentieren. </span></p><p><span style=\"font-size: 1.25rem;\">Die Ergebnisse können in einer </span><b style=\"font-size: 1.25rem;\">Infonauten-Karte</b><span style=\"font-size: 1.25rem;\"> auf dieser Webseite eingesehen werden. &nbsp;</span><br></p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
           "_anchor": "content1-1m"
+        },
+        {
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">Ich bin Infonaut</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">Ich bin lokaler Akteur</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-1q"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/turing-logo-2-1400x173.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Der Turing-Bus kommt..",
+          "text": "<p>Entlang einer vorgeplanten Route besucht der Turing-Bus vielleicht auch deine Schule oder Universität! &nbsp;</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Schreib uns!</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-1p",
+          "_styles": {
+            ".lead": {
+              "text-align": "left"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "text-align": "left"
+            }
+          }
         },
         {
           "_params": {
@@ -177,7 +252,7 @@
             "paddingBottom": 3,
             "columns": 4,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -299,11 +374,11 @@
                 "text": "Jugend hackt ist ein Programm für 13-18 jährige, die mit Code die Welt verbessern wollen.&nbsp;",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"http://jugendhackt.de\" data-toolbar=\"-mbrBtnMove\">Zur Webseite</a> ",
                 "overlay": true,
-                "overlayOpacity": "0.5"
+                "overlayOpacity": "0.8"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/screen-shot-2018-02-01-at-13.57.35-2000x759.png",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -312,11 +387,11 @@
                 "text": "Die Demokratielabore sind ein Modellprojekt der Open Knowledge Foundation Deutschland, das vom Bundesministerium für Familie, Senioren, Frauen und Jugend im Rahmen des Bundesprogramms Demokratie leben! gefördert wird. <br><br>Wir führen verschiedene Workshop- und Aktionsformate mit Jugendlichen im Alter von 12 bis 21 Jahren rund um Digitalisierung, Technologien und gesellschaftliches Miteinander durch. Dazu arbeiten wir sowohl eng mit außerschulischen Jugendeinrichtungen als auch überregionalen Jugendverbänden und Initiativen zusammen – deutschlandweit.&nbsp;",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://demokratielabore.de/projekt/\" data-toolbar=\"-mbrBtnMove\">Zur Webseite</a> ",
                 "overlay": true,
-                "overlayOpacity": "0.7"
+                "overlayOpacity": "0.9"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/screencapture-gi-de-service-1517490146946-2000x2338.png",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -325,7 +400,7 @@
                 "text": "Die Regionalgruppen sind „Informatik vor Ort“. Sie organisieren den Kontakt zwischen Informatikerinnen und Informatikern in Anwendung, Forschung oder Lehre. Die Regionalgruppen werden gemeinschaftlich mit dem German Chapter of the ACM betrieben.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://gi.de/netzwerk/regionalgruppen/\" data-toolbar=\"-mbrBtnMove\">Zur Webseite</a> ",
                 "overlay": true,
-                "overlayOpacity": "0.7"
+                "overlayOpacity": "0.9"
               }
             ]
           },
@@ -350,12 +425,47 @@
         },
         {
           "_params": {
+            "showTitle": true,
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#FFF8E0",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Newsletteranmeldung:",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Anmelden</a>",
+          "form": {
+            "action": "bettlar@gmail.com",
+            "alerts": {
+              "success": "Danke!"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "E-Mail Adresse eingeben"
+              }
+            }
+          },
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form2",
+          "_anchor": "form2-1r"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
             "bgColor": "#37383e",
             "overlay": true,
             "overlayColor": "#3C3C3C",
@@ -404,7 +514,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#26272c",
@@ -440,7 +550,7 @@
             "sticky": false,
             "collapsed": true,
             "transparent": false,
-            "color": "#ffffff",
+            "color": "#f2f2f2",
             "hamburgerColor": "#000000"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"><strong>Der Bus</strong><br></a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"stationen.html\"><strong>Stationen</strong><br></a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"kontakt.html\"><strong>Kontakt</strong></a></li>",
@@ -536,7 +646,7 @@
             "paddingBottom": 3,
             "columns": 4,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -711,10 +821,10 @@
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#37383e",
             "overlay": true,
             "overlayColor": "#3C3C3C",
@@ -763,7 +873,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#26272c",
@@ -799,7 +909,7 @@
             "sticky": false,
             "collapsed": true,
             "transparent": false,
-            "color": "#ffffff",
+            "color": "#f2f2f2",
             "hamburgerColor": "#000000"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"><strong>Der Bus</strong><br></a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"stationen.html\"><strong>Stationen</strong><br></a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"kontakt.html\"><strong>Kontakt</strong></a></li>",
@@ -895,7 +1005,7 @@
             "paddingBottom": 3,
             "columns": 4,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -1070,10 +1180,10 @@
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#37383e",
             "overlay": true,
             "overlayColor": "#3C3C3C",
@@ -1122,7 +1232,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#26272c",

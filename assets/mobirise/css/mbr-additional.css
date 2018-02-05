@@ -8,6 +8,7 @@
 
 
 
+
 #menu-0 .navbar-toggler {
   color: #000000;
 }
@@ -19,6 +20,13 @@
 }
 #header3-1l B {
   font-family: 'Oswald', sans-serif;
+}
+#msg-box4-1p .lead {
+  text-align: left;
+}
+#msg-box4-1p .mbr-section-title {
+  font-family: 'Oswald', sans-serif;
+  text-align: left;
 }
 #features1-d H4 {
   font-family: 'Oswald', sans-serif;
