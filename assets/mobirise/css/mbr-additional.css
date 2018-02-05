@@ -1,0 +1,109 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+
+
+
+
+
+
+#menu-0 .navbar-toggler {
+  color: #000000;
+}
+#menu-0 .navbar-brand {
+  font-family: 'Oswald', sans-serif;
+}
+#header3-1l H3 {
+  font-family: 'Oswald', sans-serif;
+}
+#header3-1l B {
+  font-family: 'Oswald', sans-serif;
+}
+#msg-box4-1p .lead {
+  text-align: left;
+}
+#msg-box4-1p .mbr-section-title {
+  font-family: 'Oswald', sans-serif;
+  text-align: left;
+}
+#features1-d H4 {
+  font-family: 'Oswald', sans-serif;
+}
+#slider-7 H2 {
+  color: #000000;
+  text-align: left;
+  font-family: 'Alegreya Sans', sans-serif;
+}
+#slider-7 P {
+  text-align: left;
+}
+
+
+
+
+
+#menu-t .navbar-toggler {
+  color: #000;
+}
+#menu-t .navbar-brand {
+  font-family: 'Oswald', sans-serif;
+}
+#header1-u H1 {
+  font-size: 46px;
+  color: #000000;
+  font-family: 'Roboto Condensed', sans-serif;
+  text-align: left;
+}
+#header1-u B {
+  font-family: 'Lora', serif;
+}
+#header1-u P {
+  text-align: left;
+}
+#features1-v H4 {
+  font-family: 'Oswald', sans-serif;
+}
+#slider-w H2 {
+  color: #000000;
+  text-align: left;
+  font-family: 'Alegreya Sans', sans-serif;
+}
+#slider-w P {
+  text-align: left;
+}
+
+
+
+
+
+#menu-z .navbar-toggler {
+  color: #000;
+}
+#menu-z .navbar-brand {
+  font-family: 'Oswald', sans-serif;
+}
+#header1-10 H1 {
+  font-size: 46px;
+  color: #000000;
+  font-family: 'Roboto Condensed', sans-serif;
+  text-align: left;
+}
+#header1-10 B {
+  font-family: 'Lora', serif;
+}
+#header1-10 P {
+  text-align: left;
+}
+#features1-11 H4 {
+  font-family: 'Oswald', sans-serif;
+}
+#slider-12 H2 {
+  color: #000000;
+  text-align: left;
+  font-family: 'Open Sans', sans-serif;
+}
+#slider-12 P {
+  text-align: left;
+}
