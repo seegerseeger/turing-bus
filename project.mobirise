@@ -10,7 +10,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.3",
-    "uniqCompNum": 64,
+    "uniqCompNum": 69,
     "versionPublish": "4.6.3",
     "screenshot": "screenshot.png"
   },
@@ -36,7 +36,7 @@
             "color": "#f2f2f2",
             "hamburgerColor": "#000000"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"><strong>Der Bus</strong><br></a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"stationen.html\"><strong>Stationen</strong><br></a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"kontakt.html\"><strong>Kontakt</strong></a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\"><strong>Der Bus</strong><br></a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"stationen.html\"><strong>Stationen</strong><br></a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"kontakt.html\"><strong>Kontakt</strong></a></li>",
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
           "logo": {
             "image": {
@@ -53,7 +53,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-brand text-black\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Mit dem Turing-Bus in die digitale Zukunft</a>",
+          "brand": "<a class=\"navbar-brand text-black\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Mit dem Turing-Bus in eine bessere digitale Zukunft</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -168,7 +168,7 @@
           "_anchor": "content1-1m"
         },
         {
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">Ich bin Infonaut</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">Ich bin lokaler Akteur</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Ich bin Infonaut</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Ich bin lokaler Akteur</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -188,7 +188,7 @@
             "paddingTop": 0,
             "paddingBottom": 0,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -228,7 +228,7 @@
             "Theme"
           ],
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Schreib uns!</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Schreib uns!</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-1p",
           "_styles": {
@@ -252,7 +252,7 @@
             "paddingBottom": 3,
             "columns": 4,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -429,7 +429,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#FFF8E0",
@@ -456,16 +456,22 @@
             "Theme"
           ],
           "_name": "form2",
-          "_anchor": "form2-1r"
+          "_anchor": "form2-1r",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          }
         },
         {
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
-            "bgColorRadio": false,
+            "bgColorRadio": true,
             "bgColor": "#37383e",
             "overlay": true,
             "overlayColor": "#3C3C3C",
@@ -514,7 +520,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#26272c",
@@ -553,7 +559,7 @@
             "color": "#f2f2f2",
             "hamburgerColor": "#000000"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"><strong>Der Bus</strong><br></a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"stationen.html\"><strong>Stationen</strong><br></a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"kontakt.html\"><strong>Kontakt</strong></a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\"><strong>Der Bus</strong><br></a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"stationen.html\"><strong>Stationen</strong><br></a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"kontakt.html\"><strong>Kontakt</strong></a></li>",
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
           "logo": {
             "image": {
@@ -570,7 +576,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-brand text-black\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Mit dem Turing-Bus in die digitale Zukunft</a>",
+          "brand": "<a class=\"navbar-brand text-black\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Mit dem Turing-Bus in eine bessere digitale Zukunft</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -646,7 +652,7 @@
             "paddingBottom": 3,
             "columns": 4,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -821,10 +827,10 @@
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
-            "bgColorRadio": false,
+            "bgColorRadio": true,
             "bgColor": "#37383e",
             "overlay": true,
             "overlayColor": "#3C3C3C",
@@ -873,7 +879,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#26272c",
@@ -912,7 +918,7 @@
             "color": "#f2f2f2",
             "hamburgerColor": "#000000"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"><strong>Der Bus</strong><br></a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"stationen.html\"><strong>Stationen</strong><br></a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"kontakt.html\"><strong>Kontakt</strong></a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\"><strong>Der Bus</strong><br></a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"stationen.html\"><strong>Stationen</strong><br></a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"kontakt.html\"><strong>Kontakt</strong></a></li>",
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
           "logo": {
             "image": {
@@ -929,7 +935,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-brand text-black\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Mit dem Turing-Bus in die digitale Zukunft</a>",
+          "brand": "<a class=\"navbar-brand text-black\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Mit dem Turing-Bus in eine bessere digitale Zukunft</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -1005,7 +1011,7 @@
             "paddingBottom": 3,
             "columns": 4,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -1180,10 +1186,10 @@
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
-            "bgColorRadio": false,
+            "bgColorRadio": true,
             "bgColor": "#37383e",
             "overlay": true,
             "overlayColor": "#3C3C3C",
@@ -1232,7 +1238,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#26272c",
