@@ -312,7 +312,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Bilder: CC-0. Andere Inhalte: CC-BY. <a href=\"page1.html\" class=\"text-danger\">Impressum / Datenschutz</a>",
+          "text": "Bilder: CC-0. Andere Inhalte: CC-BY. <a href=\"impressum.html\" class=\"text-danger\">Impressum / Datenschutz</a>",
           "_tags": [
             "Theme"
           ],
@@ -589,7 +589,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Bilder: CC-0. Andere Inhalte: CC-BY. <a href=\"page1.html\" class=\"text-danger\">Impressum / Datenschutz</a>",
+          "text": "Bilder: CC-0. Andere Inhalte: CC-BY. <a href=\"impressum.html\" class=\"text-danger\">Impressum / Datenschutz</a>",
           "_tags": [
             "Theme"
           ],
@@ -866,7 +866,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Bilder: CC-0. Andere Inhalte: CC-BY. <a href=\"page1.html\" class=\"text-danger\">Impressum / Datenschutz</a>",
+          "text": "Bilder: CC-0. Andere Inhalte: CC-BY. <a href=\"impressum.html\" class=\"text-danger\">Impressum / Datenschutz</a>",
           "_tags": [
             "Theme"
           ],
