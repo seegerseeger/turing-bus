@@ -23,7 +23,30 @@
   color: #ffffff;
   font-size: 21px;
 }
+#msg-box2-v .mbr-header .mbr-header__text {
+  color: #252525;
+  font-size: 16px;
+}
+#msg-box2-v .mbr-article {
+  color: #252525;
+}
 #features1-r .mbr-section-title .mbr-header__text {
+  font-size: 16px;
+  text-align: left;
+}
+#features1-r .mbr-section__col .mbr-header__text {
+  text-align: left;
+  font-size: 12px;
+}
+#msg-box2-x .mbr-header .mbr-header__text {
+  color: #252525;
+  text-align: left;
+  font-size: 16px;
+}
+#msg-box2-x .mbr-article {
+  color: #252525;
+}
+#features1-w .mbr-section-title .mbr-header__text {
   font-size: 16px;
   text-align: left;
 }
