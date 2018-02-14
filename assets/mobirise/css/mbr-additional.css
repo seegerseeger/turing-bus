@@ -62,6 +62,29 @@
 #ext_menu-j .mbr-navbar__hamburger {
   color: #ffffff;
 }
+#msg-box2-y .mbr-header .mbr-header__text {
+  color: #252525;
+  font-size: 16px;
+}
+#msg-box2-y .mbr-article {
+  color: #252525;
+}
+#features1-z .mbr-section-title .mbr-header__text {
+  font-size: 16px;
+  text-align: left;
+}
+#features1-z .mbr-section__col .mbr-header__text {
+  text-align: left;
+  font-size: 12px;
+}
+#msg-box2-10 .mbr-header .mbr-header__text {
+  color: #252525;
+  text-align: left;
+  font-size: 16px;
+}
+#msg-box2-10 .mbr-article {
+  color: #252525;
+}
 #features1-t .mbr-section-title .mbr-header__text {
   font-size: 16px;
   text-align: left;
@@ -77,6 +100,29 @@
 }
 #ext_menu-a .mbr-navbar__hamburger {
   color: #ffffff;
+}
+#msg-box2-13 .mbr-header .mbr-header__text {
+  color: #252525;
+  font-size: 16px;
+}
+#msg-box2-13 .mbr-article {
+  color: #252525;
+}
+#features1-12 .mbr-section-title .mbr-header__text {
+  font-size: 16px;
+  text-align: left;
+}
+#features1-12 .mbr-section__col .mbr-header__text {
+  text-align: left;
+  font-size: 12px;
+}
+#msg-box2-11 .mbr-header .mbr-header__text {
+  color: #252525;
+  text-align: left;
+  font-size: 16px;
+}
+#msg-box2-11 .mbr-article {
+  color: #252525;
 }
 #features1-u .mbr-section-title .mbr-header__text {
   font-size: 16px;
