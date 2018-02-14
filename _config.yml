@@ -18,7 +18,7 @@ plugins:
   - jekyll-redirect-from
   - jekyll-sitemap
   - octopress-autoprefixer
-  - jekyll-paginate
+# - jekyll-paginate
 paginate: 8
 paginate_path: blog/page/:num/
 languages: ["de", "en"]
