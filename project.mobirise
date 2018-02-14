@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-02-07_1319",
-    "currentPage": "info.html",
+    "currentPage": "impressum.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -15,7 +15,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.3",
-    "uniqCompNum": 42,
+    "uniqCompNum": 51,
     "versionPublish": "4.6.3",
     "screenshot": "screenshot.png"
   },
@@ -88,7 +88,7 @@
             "showText": true,
             "showButtons": true,
             "showArrow": true,
-            "contentAlign": "right",
+            "contentAlign": "center",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1620x1080.jpg",
             "parallax": true,
@@ -121,7 +121,8 @@
               "font-family": "'PT Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700",
               "color": "#ffffff",
-              "font-size": "20px"
+              "font-size": "20px",
+              "text-align": "left"
             }
           }
         },
@@ -130,7 +131,8 @@
           "_styles": {
             ".mbr-header .mbr-header__text": {
               "color": "#252525",
-              "font-size": "16px"
+              "font-size": "15px",
+              "text-align": "center"
             },
             ".mbr-article": {
               "color": "#252525"
@@ -194,7 +196,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/bmbf-600x294.jpg",
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2018-02-08-at-10.08.43-58x52.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -240,7 +242,7 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2018-02-08-at-10.08.43-58x52.png",
+              "src": "@PROJECT_PATH@/assets/images/bmbf-600x294.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -347,7 +349,7 @@
           "_styles": {
             ".mbr-header .mbr-header__text": {
               "color": "#252525",
-              "text-align": "left",
+              "text-align": "center",
               "font-size": "16px"
             },
             ".mbr-article": {
@@ -412,7 +414,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/institutionlogo19045-1-326x134.png",
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2018-02-08-at-10.08.43-58x52.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -435,7 +437,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/okfde-logo-black-600x255.png",
+              "src": "@PROJECT_PATH@/assets/images/institutionlogo19045-1-326x134.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -458,7 +460,7 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2018-02-08-at-10.08.43-58x52.png",
+              "src": "@PROJECT_PATH@/assets/images/okfde-logo-black-600x255.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -664,7 +666,8 @@
           "_styles": {
             ".mbr-header .mbr-header__text": {
               "color": "#252525",
-              "font-size": "16px"
+              "font-size": "15px",
+              "text-align": "center"
             },
             ".mbr-article": {
               "color": "#252525"
@@ -689,14 +692,14 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "GEFÖRDERT DURCH:",
+          "title": "<p>GEFÖRDERT DURCH:</p>",
           "text": "",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">TRY FOR FREE</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box2",
-          "_anchor": "msg-box2-y"
+          "_anchor": "msg-box2-17"
         },
         {
           "_params": {
@@ -728,7 +731,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/bmbf-600x294.jpg",
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2018-02-08-at-10.08.43-58x52.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -774,7 +777,7 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2018-02-08-at-10.08.43-58x52.png",
+              "src": "@PROJECT_PATH@/assets/images/bmbf-600x294.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -874,14 +877,14 @@
               "font-size": "12px"
             }
           },
-          "_anchor": "features1-z"
+          "_anchor": "features1-18"
         },
         {
           "_inherit": "msg-box1",
           "_styles": {
             ".mbr-header .mbr-header__text": {
               "color": "#252525",
-              "text-align": "left",
+              "text-align": "center",
               "font-size": "16px"
             },
             ".mbr-article": {
@@ -914,7 +917,7 @@
             "Theme"
           ],
           "_name": "msg-box2",
-          "_anchor": "msg-box2-10"
+          "_anchor": "msg-box2-19"
         },
         {
           "_params": {
@@ -946,7 +949,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/institutionlogo19045-1-326x134.png",
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2018-02-08-at-10.08.43-58x52.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -969,7 +972,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/okfde-logo-black-600x255.png",
+              "src": "@PROJECT_PATH@/assets/images/institutionlogo19045-1-326x134.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -992,7 +995,7 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2018-02-08-at-10.08.43-58x52.png",
+              "src": "@PROJECT_PATH@/assets/images/okfde-logo-black-600x255.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1088,7 +1091,7 @@
               "text-align": "left"
             }
           },
-          "_anchor": "features1-t"
+          "_anchor": "features1-1a"
         },
         {
           "_params": {
@@ -1194,11 +1197,32 @@
           "_anchor": "content1-f"
         },
         {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#444444",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Bilder: CC-0. Andere Inhalte: CC-BY. <a href=\"impressum.html\" class=\"text-danger\">Impressum / Datenschutz</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-i"
+        },
+        {
           "_inherit": "msg-box1",
           "_styles": {
             ".mbr-header .mbr-header__text": {
               "color": "#252525",
-              "font-size": "16px"
+              "font-size": "15px",
+              "text-align": "center"
             },
             ".mbr-article": {
               "color": "#252525"
@@ -1230,7 +1254,7 @@
             "Theme"
           ],
           "_name": "msg-box2",
-          "_anchor": "msg-box2-13"
+          "_anchor": "msg-box2-1b"
         },
         {
           "_params": {
@@ -1262,7 +1286,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/bmbf-600x294.jpg",
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2018-02-08-at-10.08.43-58x52.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1308,7 +1332,7 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2018-02-08-at-10.08.43-58x52.png",
+              "src": "@PROJECT_PATH@/assets/images/bmbf-600x294.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1331,7 +1355,7 @@
           "media4": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/bmbf-379x238.png",
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2018-02-08-at-10.08.43-58x52.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1408,14 +1432,14 @@
               "font-size": "12px"
             }
           },
-          "_anchor": "features1-12"
+          "_anchor": "features1-1c"
         },
         {
           "_inherit": "msg-box1",
           "_styles": {
             ".mbr-header .mbr-header__text": {
               "color": "#252525",
-              "text-align": "left",
+              "text-align": "center",
               "font-size": "16px"
             },
             ".mbr-article": {
@@ -1448,7 +1472,7 @@
             "Theme"
           ],
           "_name": "msg-box2",
-          "_anchor": "msg-box2-11"
+          "_anchor": "msg-box2-1d"
         },
         {
           "_params": {
@@ -1480,7 +1504,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/institutionlogo19045-1-326x134.png",
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2018-02-08-at-10.08.43-58x52.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1503,7 +1527,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/okfde-logo-black-600x255.png",
+              "src": "@PROJECT_PATH@/assets/images/institutionlogo19045-1-326x134.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1526,7 +1550,7 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2018-02-08-at-10.08.43-58x52.png",
+              "src": "@PROJECT_PATH@/assets/images/okfde-logo-black-600x255.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1622,27 +1646,7 @@
               "text-align": "left"
             }
           },
-          "_anchor": "features1-u"
-        },
-        {
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#444444",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "Bilder: CC-0. Andere Inhalte: CC-BY. <a href=\"impressum.html\" class=\"text-danger\">Impressum / Datenschutz</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_anchor": "footer1-i"
+          "_anchor": "features1-1e"
         }
       ]
     }
