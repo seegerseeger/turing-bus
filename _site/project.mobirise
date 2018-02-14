@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-02-07_1319",
-    "currentPage": "impressum.html",
+    "currentPage": "info.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -15,7 +15,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.3",
-    "uniqCompNum": 40,
+    "uniqCompNum": 42,
     "versionPublish": "4.6.3",
     "screenshot": "screenshot.png"
   },
@@ -1331,7 +1331,7 @@
           "media4": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2018-02-08-at-10.08.43-58x52.png",
+              "src": "@PROJECT_PATH@/assets/images/bmbf-379x238.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",

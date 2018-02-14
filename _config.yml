@@ -1,0 +1,8 @@
+# Site settings
+title: Turing-Bus
+url: https://turing-bus.de/
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
