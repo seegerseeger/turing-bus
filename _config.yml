@@ -1,0 +1,33 @@
+markdown: kramdown
+fullurl: 'https://turing-bus.de'
+url: 'https://turing-bus.de'
+staticurl: /static/
+baseurl: ""
+exclude:
+  - "CNAME"
+  - "Gemfile*"
+  - "*.sh"
+  - "browserslist"
+  - "Readme.md"
+  - ".idea/"
+  - ".git/"
+  - "scripts/"
+  - "_site/"
+  - "vendor/"
+plugins:
+  - jekyll-redirect-from
+  - jekyll-sitemap
+  - octopress-autoprefixer
+# - jekyll-paginate
+paginate: 8
+paginate_path: blog/page/:num/
+languages: ["de", "en"]
+exclude_from_localizations: ["static", "files", "style", "js", "fonts", "images", "search.json"]
+tag_page_layout: tag_index
+tag_page_dir: blog/tags
+tag_permalink_style: pretty
+sass:
+  sass_dir: static/style/_scss
+  style: compressed
+kramdown:
+  smart_quotes: ["ldquo", "rsquo", "bdquo", "ldquo"]
